@@ -1,1 +1,4 @@
-123456
+int main()
+{
+	return 0;
+}
